@@ -36,3 +36,34 @@ WHEN I register a service worker
 THEN I should have my static assets pre cached upon loading along with subsequent pages and static assets
 WHEN I deploy to Heroku
 THEN I should have proper build scripts for a webpack application
+
+## Technologies Used
+
+- Node.js
+- Express.js
+- Mongoose
+- MongoDB
+- IndexedDB
+- RESTful API
+- Workbox
+
+## Installation & Links
+
+1. Clone the repository.
+2. Install dependencies using run `npm install`.
+3. Build the application using `npm run build`.
+3. Start the application using `npm start`.
+
+- GitHub Repository: [github.com/isabelkvaughan/another-text-editor](https://github.com/isabelkvaughan/another-text-editor/)
+- Deployed Application: [another-text-editor-d3636211ee47.herokuapp.com](https://another-text-editor-d3636211ee47.herokuapp.com)
+
+## Mockup
+The following images shows an example of how the applciation will look.
+![Just Another Text Editor open with sample text](./images/jate_screenshot.png)
+
+## Contact
+
+Isabel Vaughan
+
+- LinkedIn: [linkedin.com/in/isabelknoonan](https://www.linkedin.com/in/isabelknoonan/)
+- GitHub profile: [github.com/isabelkvaughan](https://github.com/isabelkvaughan)
